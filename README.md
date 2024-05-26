@@ -7,7 +7,7 @@ Hack Cameras Cctv
 ```
 $ apt-get install python3
 $ apt-get install git
-$ git clone https://github.com/Whomrx666/Hack-cctv
+$ git clone https://github.com/ranielhiyan184/Raniel-Hack
 $ cd Hack-cctv
 $ pip install -r requirements.txt
 $ python3 Hack-cctv.py 
